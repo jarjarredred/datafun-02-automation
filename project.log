@@ -1,0 +1,232 @@
+2025-05-14 22:10:10.908 | INFO     | __main__:<module>:38 - Logger loaded.
+2025-05-14 22:10:10.908 | INFO     | __main__:main:211 - #####################################
+2025-05-14 22:10:10.909 | INFO     | __main__:main:212 - # Starting execution of main()
+2025-05-14 22:10:10.909 | INFO     | __main__:main:213 - #####################################
+
+2025-05-14 22:11:19.126 | INFO     | __main__:<module>:38 - Logger loaded.
+2025-05-14 22:11:19.127 | INFO     | __main__:main:211 - #####################################
+2025-05-14 22:11:19.127 | INFO     | __main__:main:212 - # Starting execution of main()
+2025-05-14 22:11:19.127 | INFO     | __main__:main:213 - #####################################
+
+2025-05-14 22:11:19.127 | INFO     | __main__:main:215 - Byline: 
+---------------------------------------------------------
+Stellar Analytics: Delivering Professional Insights
+---------------------------------------------------------
+Has Current Clients:  True
+Years in Business:         15
+Skills Offered:             ['Data Analysis', 'Photography', 'Community Engagement']
+Client Rating Scores: [4.8, 5.0, 4.9, 5.0, 4.7]
+Minimum Rating Score: 4.7
+Maximum Rating Score: 5.0
+Mean Rating Score: 4.88
+Standard Deviation of Rating Scores: 0.13
+
+2025-05-14 22:11:19.127 | INFO     | __main__:create_folders_for_range:74 - FUNCTION: create_folders_for_range()
+2025-05-14 22:11:19.128 | INFO     | __main__:create_folders_for_range:75 - PARAMETERS: start_year = 2020, end_year = 2023
+2025-05-14 22:11:19.128 | INFO     | __main__:create_folders_for_range:80 - Created folder: C:\Repos\datafun-02-automation\2020
+2025-05-14 22:11:19.128 | INFO     | __main__:create_folders_for_range:80 - Created folder: C:\Repos\datafun-02-automation\2021
+2025-05-14 22:11:19.129 | INFO     | __main__:create_folders_for_range:80 - Created folder: C:\Repos\datafun-02-automation\2022
+2025-05-14 22:11:19.129 | INFO     | __main__:create_folders_for_range:80 - Created folder: C:\Repos\datafun-02-automation\2023
+2025-05-14 22:11:19.129 | INFO     | __main__:create_folders_from_list:102 - FUNCTION: create_folders_from_list()
+2025-05-14 22:11:19.129 | INFO     | __main__:create_folders_from_list:103 - PARAMETER: folder_list = ['data-csv', 'data-excel', 'data-json']
+2025-05-14 22:11:19.129 | INFO     | __main__:create_folders_from_list:108 - Created folder:C:\Repos\datafun-02-automation\data-csv
+2025-05-14 22:11:19.130 | INFO     | __main__:create_folders_from_list:108 - Created folder:C:\Repos\datafun-02-automation\data-excel
+2025-05-14 22:11:19.130 | INFO     | __main__:create_folders_from_list:108 - Created folder:C:\Repos\datafun-02-automation\data-json
+2025-05-14 22:11:19.130 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:132 - FUNCTION: create_prefixed_folders()
+2025-05-14 22:11:19.130 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:133 - PARAMETERS: folder_list = ['csv', 'excel', 'json'], prefix = output-
+2025-05-14 22:11:19.131 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:135 - Created folder: C:\Repos\datafun-02-automation\output-csv
+2025-05-14 22:11:19.131 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:135 - Created folder: C:\Repos\datafun-02-automation\output-excel
+2025-05-14 22:11:19.131 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:135 - Created folder: C:\Repos\datafun-02-automation\output-json
+2025-05-14 22:11:19.131 | INFO     | __main__:create_folders_periodically:153 - FUNCTION: create_folders_periodically()
+2025-05-14 22:11:19.131 | INFO     | __main__:create_folders_periodically:154 - PARAMETER: duration_seconds = 5
+2025-05-14 22:20:29.907 | INFO     | __main__:<module>:38 - Logger loaded.
+2025-05-14 22:20:29.908 | INFO     | __main__:main:206 - #####################################
+2025-05-14 22:20:29.908 | INFO     | __main__:main:207 - # Starting execution of main()
+2025-05-14 22:20:29.908 | INFO     | __main__:main:208 - #####################################
+
+2025-05-14 22:20:29.908 | INFO     | __main__:main:210 - Byline: 
+---------------------------------------------------------
+Stellar Analytics: Delivering Professional Insights
+---------------------------------------------------------
+Has Current Clients:  True
+Years in Business:         15
+Skills Offered:             ['Data Analysis', 'Photography', 'Community Engagement']
+Client Rating Scores: [4.8, 5.0, 4.9, 5.0, 4.7]
+Minimum Rating Score: 4.7
+Maximum Rating Score: 5.0
+Mean Rating Score: 4.88
+Standard Deviation of Rating Scores: 0.13
+
+2025-05-14 22:20:29.908 | INFO     | __main__:create_folders_for_range:74 - FUNCTION: create_folders_for_range()
+2025-05-14 22:20:29.908 | INFO     | __main__:create_folders_for_range:75 - PARAMETERS: start_year = 2020, end_year = 2023
+2025-05-14 22:20:29.909 | INFO     | __main__:create_folders_for_range:80 - Created folder: C:\Repos\datafun-02-automation\2020
+2025-05-14 22:20:29.909 | INFO     | __main__:create_folders_for_range:80 - Created folder: C:\Repos\datafun-02-automation\2021
+2025-05-14 22:20:29.909 | INFO     | __main__:create_folders_for_range:80 - Created folder: C:\Repos\datafun-02-automation\2022
+2025-05-14 22:20:29.909 | INFO     | __main__:create_folders_for_range:80 - Created folder: C:\Repos\datafun-02-automation\2023
+2025-05-14 22:20:29.909 | INFO     | __main__:create_folders_from_list:102 - FUNCTION: create_folders_from_list()
+2025-05-14 22:20:29.910 | INFO     | __main__:create_folders_from_list:103 - PARAMETER: folder_list = ['data-csv', 'data-excel', 'data-json']
+2025-05-14 22:20:29.910 | INFO     | __main__:create_folders_from_list:108 - Created folder:C:\Repos\datafun-02-automation\data-csv
+2025-05-14 22:20:29.910 | INFO     | __main__:create_folders_from_list:108 - Created folder:C:\Repos\datafun-02-automation\data-excel
+2025-05-14 22:20:29.910 | INFO     | __main__:create_folders_from_list:108 - Created folder:C:\Repos\datafun-02-automation\data-json
+2025-05-14 22:20:29.910 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:132 - FUNCTION: create_prefixed_folders()
+2025-05-14 22:20:29.910 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:133 - PARAMETERS: folder_list = ['csv', 'excel', 'json'], prefix = output-
+2025-05-14 22:20:29.911 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:135 - Created folder: C:\Repos\datafun-02-automation\output-csv
+2025-05-14 22:20:29.911 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:135 - Created folder: C:\Repos\datafun-02-automation\output-excel
+2025-05-14 22:20:29.911 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:135 - Created folder: C:\Repos\datafun-02-automation\output-json
+2025-05-14 22:21:08.098 | INFO     | __main__:<module>:38 - Logger loaded.
+2025-05-14 22:21:08.098 | INFO     | __main__:main:207 - #####################################
+2025-05-14 22:21:08.098 | INFO     | __main__:main:208 - # Starting execution of main()
+2025-05-14 22:21:08.099 | INFO     | __main__:main:209 - #####################################
+
+2025-05-14 22:21:08.099 | INFO     | __main__:main:211 - Byline: 
+---------------------------------------------------------
+Stellar Analytics: Delivering Professional Insights
+---------------------------------------------------------
+Has Current Clients:  True
+Years in Business:         15
+Skills Offered:             ['Data Analysis', 'Photography', 'Community Engagement']
+Client Rating Scores: [4.8, 5.0, 4.9, 5.0, 4.7]
+Minimum Rating Score: 4.7
+Maximum Rating Score: 5.0
+Mean Rating Score: 4.88
+Standard Deviation of Rating Scores: 0.13
+
+2025-05-14 22:21:08.099 | INFO     | __main__:create_folders_for_range:74 - FUNCTION: create_folders_for_range()
+2025-05-14 22:21:08.099 | INFO     | __main__:create_folders_for_range:75 - PARAMETERS: start_year = 2020, end_year = 2023
+2025-05-14 22:21:08.099 | INFO     | __main__:create_folders_for_range:80 - Created folder: C:\Repos\datafun-02-automation\2020
+2025-05-14 22:21:08.099 | INFO     | __main__:create_folders_for_range:80 - Created folder: C:\Repos\datafun-02-automation\2021
+2025-05-14 22:21:08.100 | INFO     | __main__:create_folders_for_range:80 - Created folder: C:\Repos\datafun-02-automation\2022
+2025-05-14 22:21:08.100 | INFO     | __main__:create_folders_for_range:80 - Created folder: C:\Repos\datafun-02-automation\2023
+2025-05-14 22:21:08.100 | INFO     | __main__:create_folders_from_list:102 - FUNCTION: create_folders_from_list()
+2025-05-14 22:21:08.100 | INFO     | __main__:create_folders_from_list:103 - PARAMETER: folder_list = ['data-csv', 'data-excel', 'data-json']
+2025-05-14 22:21:08.100 | INFO     | __main__:create_folders_from_list:108 - Created folder:C:\Repos\datafun-02-automation\data-csv
+2025-05-14 22:21:08.100 | INFO     | __main__:create_folders_from_list:108 - Created folder:C:\Repos\datafun-02-automation\data-excel
+2025-05-14 22:21:08.101 | INFO     | __main__:create_folders_from_list:108 - Created folder:C:\Repos\datafun-02-automation\data-json
+2025-05-14 22:21:08.101 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:132 - FUNCTION: create_prefixed_folders()
+2025-05-14 22:21:08.101 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:133 - PARAMETERS: folder_list = ['csv', 'excel', 'json'], prefix = output-
+2025-05-14 22:21:08.101 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:135 - Created folder: C:\Repos\datafun-02-automation\output-csv
+2025-05-14 22:21:08.101 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:135 - Created folder: C:\Repos\datafun-02-automation\output-excel
+2025-05-14 22:21:08.101 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:135 - Created folder: C:\Repos\datafun-02-automation\output-json
+2025-05-14 22:22:41.944 | INFO     | __main__:<module>:38 - Logger loaded.
+2025-05-14 22:22:41.944 | INFO     | __main__:main:206 - #####################################
+2025-05-14 22:22:41.945 | INFO     | __main__:main:207 - # Starting execution of main()
+2025-05-14 22:22:41.945 | INFO     | __main__:main:208 - #####################################
+
+2025-05-14 22:22:41.945 | INFO     | __main__:main:210 - Byline: 
+---------------------------------------------------------
+Stellar Analytics: Delivering Professional Insights
+---------------------------------------------------------
+Has Current Clients:  True
+Years in Business:         15
+Skills Offered:             ['Data Analysis', 'Photography', 'Community Engagement']
+Client Rating Scores: [4.8, 5.0, 4.9, 5.0, 4.7]
+Minimum Rating Score: 4.7
+Maximum Rating Score: 5.0
+Mean Rating Score: 4.88
+Standard Deviation of Rating Scores: 0.13
+
+2025-05-14 22:22:41.945 | INFO     | __main__:create_folders_for_range:74 - FUNCTION: create_folders_for_range()
+2025-05-14 22:22:41.945 | INFO     | __main__:create_folders_for_range:75 - PARAMETERS: start_year = 2020, end_year = 2023
+2025-05-14 22:22:41.945 | INFO     | __main__:create_folders_for_range:80 - Created folder: C:\Repos\datafun-02-automation\2020
+2025-05-14 22:22:41.946 | INFO     | __main__:create_folders_for_range:80 - Created folder: C:\Repos\datafun-02-automation\2021
+2025-05-14 22:22:41.946 | INFO     | __main__:create_folders_for_range:80 - Created folder: C:\Repos\datafun-02-automation\2022
+2025-05-14 22:22:41.946 | INFO     | __main__:create_folders_for_range:80 - Created folder: C:\Repos\datafun-02-automation\2023
+2025-05-14 22:22:41.946 | INFO     | __main__:create_folders_from_list:102 - FUNCTION: create_folders_from_list()
+2025-05-14 22:22:41.946 | INFO     | __main__:create_folders_from_list:103 - PARAMETER: folder_list = ['data-csv', 'data-excel', 'data-json']
+2025-05-14 22:22:41.947 | INFO     | __main__:create_folders_from_list:108 - Created folder:C:\Repos\datafun-02-automation\data-csv
+2025-05-14 22:22:41.947 | INFO     | __main__:create_folders_from_list:108 - Created folder:C:\Repos\datafun-02-automation\data-excel
+2025-05-14 22:22:41.947 | INFO     | __main__:create_folders_from_list:108 - Created folder:C:\Repos\datafun-02-automation\data-json
+2025-05-14 22:22:41.947 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:132 - FUNCTION: create_prefixed_folders()
+2025-05-14 22:22:41.947 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:133 - PARAMETERS: folder_list = ['csv', 'excel', 'json'], prefix = output-
+2025-05-14 22:22:41.948 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:135 - Created folder: C:\Repos\datafun-02-automation\output-csv
+2025-05-14 22:22:41.948 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:135 - Created folder: C:\Repos\datafun-02-automation\output-excel
+2025-05-14 22:22:41.948 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:135 - Created folder: C:\Repos\datafun-02-automation\output-json
+2025-05-14 22:22:48.390 | INFO     | __main__:<module>:38 - Logger loaded.
+2025-05-14 22:22:48.391 | INFO     | __main__:main:206 - #####################################
+2025-05-14 22:22:48.391 | INFO     | __main__:main:207 - # Starting execution of main()
+2025-05-14 22:22:48.391 | INFO     | __main__:main:208 - #####################################
+
+2025-05-14 22:22:48.391 | INFO     | __main__:main:210 - Byline: 
+---------------------------------------------------------
+Stellar Analytics: Delivering Professional Insights
+---------------------------------------------------------
+Has Current Clients:  True
+Years in Business:         15
+Skills Offered:             ['Data Analysis', 'Photography', 'Community Engagement']
+Client Rating Scores: [4.8, 5.0, 4.9, 5.0, 4.7]
+Minimum Rating Score: 4.7
+Maximum Rating Score: 5.0
+Mean Rating Score: 4.88
+Standard Deviation of Rating Scores: 0.13
+
+2025-05-14 22:22:48.391 | INFO     | __main__:create_folders_for_range:74 - FUNCTION: create_folders_for_range()
+2025-05-14 22:22:48.391 | INFO     | __main__:create_folders_for_range:75 - PARAMETERS: start_year = 2020, end_year = 2023
+2025-05-14 22:22:48.392 | INFO     | __main__:create_folders_for_range:80 - Created folder: C:\Repos\datafun-02-automation\2020
+2025-05-14 22:22:48.392 | INFO     | __main__:create_folders_for_range:80 - Created folder: C:\Repos\datafun-02-automation\2021
+2025-05-14 22:22:48.392 | INFO     | __main__:create_folders_for_range:80 - Created folder: C:\Repos\datafun-02-automation\2022
+2025-05-14 22:22:48.392 | INFO     | __main__:create_folders_for_range:80 - Created folder: C:\Repos\datafun-02-automation\2023
+2025-05-14 22:22:48.392 | INFO     | __main__:create_folders_from_list:102 - FUNCTION: create_folders_from_list()
+2025-05-14 22:22:48.393 | INFO     | __main__:create_folders_from_list:103 - PARAMETER: folder_list = ['data-csv', 'data-excel', 'data-json']
+2025-05-14 22:22:48.393 | INFO     | __main__:create_folders_from_list:108 - Created folder:C:\Repos\datafun-02-automation\data-csv
+2025-05-14 22:22:48.393 | INFO     | __main__:create_folders_from_list:108 - Created folder:C:\Repos\datafun-02-automation\data-excel
+2025-05-14 22:22:48.393 | INFO     | __main__:create_folders_from_list:108 - Created folder:C:\Repos\datafun-02-automation\data-json
+2025-05-14 22:22:48.393 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:132 - FUNCTION: create_prefixed_folders()
+2025-05-14 22:22:48.393 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:133 - PARAMETERS: folder_list = ['csv', 'excel', 'json'], prefix = output-
+2025-05-14 22:22:48.394 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:135 - Created folder: C:\Repos\datafun-02-automation\output-csv
+2025-05-14 22:22:48.394 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:135 - Created folder: C:\Repos\datafun-02-automation\output-excel
+2025-05-14 22:22:48.394 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:135 - Created folder: C:\Repos\datafun-02-automation\output-json
+2025-05-14 22:23:05.930 | INFO     | __main__:<module>:38 - Logger loaded.
+2025-05-14 22:23:05.931 | INFO     | __main__:main:206 - #####################################
+2025-05-14 22:23:05.931 | INFO     | __main__:main:207 - # Starting execution of main()
+2025-05-14 22:23:05.931 | INFO     | __main__:main:208 - #####################################
+
+2025-05-14 22:23:05.931 | INFO     | __main__:main:210 - Byline: 
+---------------------------------------------------------
+Stellar Analytics: Delivering Professional Insights
+---------------------------------------------------------
+Has Current Clients:  True
+Years in Business:         15
+Skills Offered:             ['Data Analysis', 'Photography', 'Community Engagement']
+Client Rating Scores: [4.8, 5.0, 4.9, 5.0, 4.7]
+Minimum Rating Score: 4.7
+Maximum Rating Score: 5.0
+Mean Rating Score: 4.88
+Standard Deviation of Rating Scores: 0.13
+
+2025-05-14 22:23:05.931 | INFO     | __main__:create_folders_for_range:74 - FUNCTION: create_folders_for_range()
+2025-05-14 22:23:05.931 | INFO     | __main__:create_folders_for_range:75 - PARAMETERS: start_year = 2020, end_year = 2023
+2025-05-14 22:23:05.932 | INFO     | __main__:create_folders_for_range:80 - Created folder: C:\Repos\datafun-02-automation\2020
+2025-05-14 22:23:05.932 | INFO     | __main__:create_folders_for_range:80 - Created folder: C:\Repos\datafun-02-automation\2021
+2025-05-14 22:23:05.932 | INFO     | __main__:create_folders_for_range:80 - Created folder: C:\Repos\datafun-02-automation\2022
+2025-05-14 22:23:05.932 | INFO     | __main__:create_folders_for_range:80 - Created folder: C:\Repos\datafun-02-automation\2023
+2025-05-14 22:23:05.933 | INFO     | __main__:create_folders_from_list:102 - FUNCTION: create_folders_from_list()
+2025-05-14 22:23:05.933 | INFO     | __main__:create_folders_from_list:103 - PARAMETER: folder_list = ['data-csv', 'data-excel', 'data-json']
+2025-05-14 22:23:05.933 | INFO     | __main__:create_folders_from_list:108 - Created folder:C:\Repos\datafun-02-automation\data-csv
+2025-05-14 22:23:05.933 | INFO     | __main__:create_folders_from_list:108 - Created folder:C:\Repos\datafun-02-automation\data-excel
+2025-05-14 22:23:05.933 | INFO     | __main__:create_folders_from_list:108 - Created folder:C:\Repos\datafun-02-automation\data-json
+2025-05-14 22:23:05.933 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:132 - FUNCTION: create_prefixed_folders()
+2025-05-14 22:23:05.933 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:133 - PARAMETERS: folder_list = ['csv', 'excel', 'json'], prefix = output-
+2025-05-14 22:23:05.934 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:135 - Created folder: C:\Repos\datafun-02-automation\output-csv
+2025-05-14 22:23:05.934 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:135 - Created folder: C:\Repos\datafun-02-automation\output-excel
+2025-05-14 22:23:05.934 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:135 - Created folder: C:\Repos\datafun-02-automation\output-json
+2025-05-14 22:23:05.934 | INFO     | __main__:create_folders_periodically:154 - FUNCTION: create_folders_periodically()
+2025-05-14 22:23:05.934 | INFO     | __main__:create_folders_periodically:155 - PARAMETER: duration_seconds = 5, folder_list = ['hourly-data', 'daily-reports', 'weekly-summaries']
+2025-05-14 22:23:05.935 | INFO     | __main__:create_folders_periodically:160 - Created folder: C:\Repos\datafun-02-automation\hourly-data
+2025-05-14 22:23:05.935 | INFO     | __main__:create_folders_periodically:161 - Sleeping for 5 seconds.
+2025-05-14 22:23:10.935 | INFO     | __main__:create_folders_periodically:160 - Created folder: C:\Repos\datafun-02-automation\daily-reports
+2025-05-14 22:23:10.936 | INFO     | __main__:create_folders_periodically:161 - Sleeping for 5 seconds.
+2025-05-14 22:23:15.936 | INFO     | __main__:create_folders_periodically:160 - Created folder: C:\Repos\datafun-02-automation\weekly-summaries
+2025-05-14 22:23:15.937 | INFO     | __main__:create_folders_periodically:161 - Sleeping for 5 seconds.
+2025-05-14 22:23:20.937 | INFO     | __main__:create_standardized_folders:184 - FUNCTION: create_standardized_folders()
+2025-05-14 22:23:20.937 | INFO     | __main__:create_standardized_folders:185 - PARAMETERS: folder_list = ['North America', 'South America', 'Europe', 'Asia', 'Africa', 'Oceania', 'Middle East'], to_lowercase = True, remove_spaces = True
+2025-05-14 22:23:20.938 | INFO     | __main__:create_standardized_folders:196 - Created folder: C:\Repos\datafun-02-automation\northamerica
+2025-05-14 22:23:20.939 | INFO     | __main__:create_standardized_folders:196 - Created folder: C:\Repos\datafun-02-automation\southamerica
+2025-05-14 22:23:20.939 | INFO     | __main__:create_standardized_folders:196 - Created folder: C:\Repos\datafun-02-automation\europe
+2025-05-14 22:23:20.939 | INFO     | __main__:create_standardized_folders:196 - Created folder: C:\Repos\datafun-02-automation\asia
+2025-05-14 22:23:20.940 | INFO     | __main__:create_standardized_folders:196 - Created folder: C:\Repos\datafun-02-automation\africa
+2025-05-14 22:23:20.940 | INFO     | __main__:create_standardized_folders:196 - Created folder: C:\Repos\datafun-02-automation\oceania
+2025-05-14 22:23:20.940 | INFO     | __main__:create_standardized_folders:196 - Created folder: C:\Repos\datafun-02-automation\middleeast
+2025-05-14 22:23:20.940 | INFO     | __main__:main:232 - 
+#####################################
+2025-05-14 22:23:20.940 | INFO     | __main__:main:233 - # Completed execution of main()
+2025-05-14 22:23:20.941 | INFO     | __main__:main:234 - #####################################
